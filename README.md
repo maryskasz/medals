@@ -2,8 +2,12 @@
 
 ## Overview
 
-**Medals** is a C++ command-line application designed to process and query medal statistics across various competitions. 
+**Medals** is a C++ command-line application designed to process and query medal statistics across various competitions.
+It is a first project written as part of an Advanced C++ course at MIMUW.
 
+---
+## Author
+* Maria Kaszewska
 ---
 
 ## Terminology & Formatting Rules
