@@ -65,4 +65,3 @@ If a line is invalid (incorrect format, invalid characters, out-of-range values,
   ```bash
   g++ -Wall -Wextra -O2 -std=c++23 medals.cpp -o medals
   ```
-- **Exit Code:** Program must terminate with exit status `0`.
